@@ -1,0 +1,25 @@
+// accum: r0, address: r1, count: r2, number: r3 
+// TODO #5: complete the following assembly code
+2000 // sub r0, r0, r0; initialize r0 (accum) = 0
+2111 // sub r1, r1, r1; initialize r1 (address) = 0
+2222 // sub r2, r2, r2; initialize r2 (count) = 0
+2333 // sub r3, r3, r3; initialize r3 (number) = 0
+9002 // bz r0, 2; if (r0==0) goto skip
+7005 // addi r0, r0, 5; accum = 5;
+7005 // addi r0, r0, 5; accum = 10;
+2111 // sub r1, r1, r1; skip: address (r1) = 0 
+7116 // addi r1, r1, 6; address (r1) = 6
+3111 // add r1, r1, r1; address (r1) = 12
+3111 // add r1, r1, r1; address (r1) = 24
+3111 // add r1, r1, r1; address (r1) = 48
+0210 // load r2, r1; count = value at address
+// loop start
+9025 // bz, r2, 5, loop end *double check
+7111 // addi r1, r1, 1; address++
+0310 // load r3, r1; number = value at address
+3003 // add r0, r0, r3; accum += number;
+6221 // subi r2, r2, 1; count--;
+A02B // bnz, r2, -5, loop start ; go back to start of loop *double check
+// loop end
+4000 // disp r0; display accum
+5000 // halt

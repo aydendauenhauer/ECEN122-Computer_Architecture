@@ -1,0 +1,18 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/A.v,1646285188,verilog,,//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/ALU.v,,A,,,,,,,,
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/ALU.v,1646285188,verilog,,//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/SE_16.v,,ALU,,,,,,,,
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/SE_16.v,1646285188,verilog,,//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/data_mux.v,,SE_16,,,,,,,,
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/data_mux.v,1646285188,verilog,,//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/imm_mux.v,,data_mux,,,,,,,,
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/imm_mux.v,1646285188,verilog,,//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l5_RF.v,,imm_mux,,,,,,,,
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l5_RF.v,1646285188,verilog,,//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_MEM.v,,l5_RF,,,,,,,,
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_MEM.v,1646285188,verilog,,//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_PC.v,,l6_MEM,,,,,,,,
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_PC.v,1646285188,verilog,,//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_SM.v,,l6_PC,,,,,,,,
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_SM.v,1709073110,verilog,,//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_branch.v,,l6_SM,,,,,,,,
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_TB.v,1709078008,verilog,,,,l6_TB,,,,,,,,
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_branch.v,1709073522,verilog,,//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_branchPC.v,,l6_branch,,,,,,,,
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_branchPC.v,1709073243,verilog,,//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/mux_2_to_1.v,,l6_branchPC,,,,,,,,
+//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/mux_2_to_1.v,1646285188,verilog,,//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_TB.v,,mux_2_to_1,,,,,,,,
+Z:/ELEN_122L/Lab6/lab_6/lab_6.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,

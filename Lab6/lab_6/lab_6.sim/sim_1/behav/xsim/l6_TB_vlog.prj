@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/A.v" \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/ALU.v" \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/SE_16.v" \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/data_mux.v" \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/imm_mux.v" \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l5_RF.v" \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_MEM.v" \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_PC.v" \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_SM.v" \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_branch.v" \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_branchPC.v" \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/mux_2_to_1.v" \
+"//samba2.engr.scu.edu/ddauenhauer/ECC/Desktop/lab_6_skeleton/skeleton/l6_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
