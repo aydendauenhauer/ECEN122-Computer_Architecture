@@ -1,0 +1,1 @@
+This repository contains my Lab 3 project for ECEN 122, where I extended the Verilog control state machine and datapath from Lab 2 to support additional instructions (ADDI, SUBI, and DISPLAY), integrated it with a register file, add/subtract unit, and multiplexers, and verified correct execution of a full instruction sequence using a comprehensive testbench and waveform analysis.
