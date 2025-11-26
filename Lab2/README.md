@@ -1,0 +1,1 @@
+This repository contains my Lab 2 project for ECEN 122, where I designed a Verilog finite state machine to control a simple datapath, generating the appropriate control signals for load, move, add, and subtract operations and verifying the design with simulation waveforms.
