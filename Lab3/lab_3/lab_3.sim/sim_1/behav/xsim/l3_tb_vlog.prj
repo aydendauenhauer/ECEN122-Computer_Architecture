@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../skeleton/A.v" \
+"../../../../../skeleton/RF.v" \
+"../../../../../skeleton/bin_7seg.v" \
+"../../../../../skeleton/display_driver.v" \
+"../../../../../skeleton/l2_adder.v" \
+"../../../../../skeleton/l3_sm.v" \
+"../../../../../skeleton/modified_mux.v" \
+"../../../../../skeleton/mux_2_to_1.v" \
+"../../../../../skeleton/l3_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

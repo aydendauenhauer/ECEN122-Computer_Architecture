@@ -1,0 +1,14 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+Z:/ELEN_122L/Lab3/lab_3/lab_3.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+Z:/ELEN_122L/Lab3/skeleton/A.v,1643668348,verilog,,Z:/ELEN_122L/Lab3/skeleton/RF.v,,A,,,,,,,,
+Z:/ELEN_122L/Lab3/skeleton/RF.v,1643668348,verilog,,Z:/ELEN_122L/Lab3/skeleton/bin_7seg.v,,RF,,,,,,,,
+Z:/ELEN_122L/Lab3/skeleton/bin_7seg.v,1643668348,verilog,,Z:/ELEN_122L/Lab3/skeleton/display_driver.v,,bin_7seg,,,,,,,,
+Z:/ELEN_122L/Lab3/skeleton/display_driver.v,1643668348,verilog,,Z:/ELEN_122L/Lab3/skeleton/l2_adder.v,,display_driver,,,,,,,,
+Z:/ELEN_122L/Lab3/skeleton/l2_adder.v,1643668348,verilog,,Z:/ELEN_122L/Lab3/skeleton/l3_sm.v,,l2_adder,,,,,,,,
+Z:/ELEN_122L/Lab3/skeleton/l3_sm.v,1706664217,verilog,,Z:/ELEN_122L/Lab3/skeleton/modified_mux.v,,l3_SM,,,,,,,,
+Z:/ELEN_122L/Lab3/skeleton/l3_tb.v,1706664674,verilog,,,,l3_tb,,,,,,,,
+Z:/ELEN_122L/Lab3/skeleton/modified_mux.v,1706659459,verilog,,Z:/ELEN_122L/Lab3/skeleton/mux_2_to_1.v,,modified_mux,,,,,,,,
+Z:/ELEN_122L/Lab3/skeleton/mux_2_to_1.v,1643668348,verilog,,Z:/ELEN_122L/Lab3/skeleton/l3_tb.v,,mux_2_to_1,,,,,,,,
