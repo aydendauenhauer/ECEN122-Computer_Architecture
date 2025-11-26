@@ -1,0 +1,13 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+Z:/ECC/Desktop/lab_2_skeleton/skeleton/A.v,1642620400,verilog,,Z:/ECC/Desktop/lab_2_skeleton/skeleton/RF.v,,A,,,,,,,,
+Z:/ECC/Desktop/lab_2_skeleton/skeleton/RF.v,1642620400,verilog,,Z:/ECC/Desktop/lab_2_skeleton/skeleton/bin_7seg.v,,RF,,,,,,,,
+Z:/ECC/Desktop/lab_2_skeleton/skeleton/bin_7seg.v,1642620400,verilog,,Z:/ECC/Desktop/lab_2_skeleton/skeleton/display_driver.v,,bin_7seg,,,,,,,,
+Z:/ECC/Desktop/lab_2_skeleton/skeleton/display_driver.v,1642620400,verilog,,Z:/ECC/Desktop/lab_2_skeleton/skeleton/l2_adder.v,,display_driver,,,,,,,,
+Z:/ECC/Desktop/lab_2_skeleton/skeleton/l2_adder.v,1642620400,verilog,,Z:/ECC/Desktop/lab_2_skeleton/skeleton/l2_sm.v,,l2_adder,,,,,,,,
+Z:/ECC/Desktop/lab_2_skeleton/skeleton/l2_sm.v,1706051291,verilog,,Z:/ECC/Desktop/lab_2_skeleton/skeleton/modified_mux.v,,l2_SM,,,,,,,,
+Z:/ECC/Desktop/lab_2_skeleton/skeleton/l2_tb.v,1642620400,verilog,,,,l2_tb,,,,,,,,
+Z:/ECC/Desktop/lab_2_skeleton/skeleton/modified_mux.v,1642620400,verilog,,Z:/ECC/Desktop/lab_2_skeleton/skeleton/l2_tb.v,,modified_mux,,,,,,,,
+Z:/ELEN_122L/Lab2/lab_2/lab_2.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,

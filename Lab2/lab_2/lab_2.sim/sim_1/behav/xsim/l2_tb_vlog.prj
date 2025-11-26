@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../../ECC/Desktop/lab_2_skeleton/skeleton/A.v" \
+"../../../../../../../ECC/Desktop/lab_2_skeleton/skeleton/RF.v" \
+"../../../../../../../ECC/Desktop/lab_2_skeleton/skeleton/bin_7seg.v" \
+"../../../../../../../ECC/Desktop/lab_2_skeleton/skeleton/display_driver.v" \
+"../../../../../../../ECC/Desktop/lab_2_skeleton/skeleton/l2_adder.v" \
+"../../../../../../../ECC/Desktop/lab_2_skeleton/skeleton/l2_sm.v" \
+"../../../../../../../ECC/Desktop/lab_2_skeleton/skeleton/modified_mux.v" \
+"../../../../../../../ECC/Desktop/lab_2_skeleton/skeleton/l2_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
